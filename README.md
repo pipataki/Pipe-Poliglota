@@ -17,11 +17,16 @@ estas aplicaciones— para que se pueda usar sin manos.
   en la frase entera y, si encaja, se la queda. Si ni el traductor lo sabe,
   puede preguntárselo a Wikipedia. Y lo aprendido se aplica solo cuando mejora
   la frase: una corrección no vale en todo contexto.
-- **Signos de puntuación por el tono.** Distingue una pregunta de una
-  afirmación combinando las palabras y la entonación, y eso cambia la
-  traducción: no es lo mismo «de dónde vienes» que «¿de dónde vienes?».
+- **Pone los signos de puntuación.** Las comas y los puntos salen de tus
+  pausas; los que dependen del significado —dos puntos, comillas, paréntesis—
+  se dicen en voz alta, porque quien sabe dónde van es quien habla. Reconoce
+  las citas: «él escribió» y lo que sigue sale entrecomillado. Y distingue una
+  pregunta de una afirmación, que también cambia la traducción.
+- **Los idiomas descargados, a la vista.** Se elige uno tocándolo, sin tener
+  que decirlo; se borra del móvil con una ✕; y hay un tope para que no se llene
+  el teléfono. Lo que le hayas enseñado **se conserva** aunque borres el idioma.
 
-> **Versión 1.0.** Probada a diario en un Motorola Moto G31 con Android 12. En
+> **Versión 1.4.** Probada a diario en un Motorola Moto G31 con Android 12. En
 > otros móviles puede haber diferencias, sobre todo en las voces instaladas. Si
 > encuentras un fallo, se agradece el aviso.
 

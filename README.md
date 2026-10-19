@@ -32,13 +32,17 @@ estas aplicaciones— para que se pueda usar sin manos.
   decir tu frase se queda oyendo en el otro idioma, y lo que te contesten te lo
   dice en español. Los turnos se alternan solos; si nadie contesta, vuelve a
   escucharte a ti, y si quieres hablar antes, el botón «Hablo yo».
+- **Con auricular Bluetooth, cada uno por su aparato.** Tú hablas y oyes por el
+  auricular; el otro habla al móvil y oye tu traducción por su altavoz. Si
+  nadie habla, el turno pasa solo al otro: empieza el primero que hable. Sin
+  auricular, o si no responde, todo sigue por el móvil.
 - **Cada frase, con su altavoz y su ✕.** Las traducciones se van apilando en una
   lista, la última arriba: se vuelve a oír la que quieras y se borra la que
   quieras. También por voz: «borra» o «borra la última».
 - **Se cierra cuando lo dices.** Un botón al final de la pantalla y la orden
   «cierra la aplicación», para no dejarla abierta con el micrófono cogido.
 
-> **Versión 1.6.** Probada a diario en un Motorola Moto G31 con Android 12. En
+> **Versión 1.7.** Probada a diario en un Motorola Moto G31 con Android 12. En
 > otros móviles puede haber diferencias, sobre todo en las voces instaladas. Si
 > encuentras un fallo, se agradece el aviso.
 

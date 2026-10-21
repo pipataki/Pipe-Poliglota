@@ -36,15 +36,27 @@ estas aplicaciones— para que se pueda usar sin manos.
   auricular; el otro habla al móvil y oye tu traducción por su altavoz. Si
   nadie habla, el turno pasa solo al otro: empieza el primero que hable. Sin
   auricular, o si no responde, todo sigue por el móvil.
+- **Lo que te contestan, con el traductor de Firefox.** El mismo que lleva el
+  navegador Firefox: libre, gratuito y dentro del móvil, sin conexión. Suena
+  más natural. Traduce directo del inglés; los demás idiomas pasan por el
+  inglés y tardan algo más. Si falla o le falta un idioma, sigue el traductor
+  de siempre.
 - **Cada frase, con su altavoz y su ✕.** Las traducciones se van apilando en una
   lista, la última arriba: se vuelve a oír la que quieras y se borra la que
   quieras. También por voz: «borra» o «borra la última».
 - **Se cierra cuando lo dices.** Un botón al final de la pantalla y la orden
   «cierra la aplicación», para no dejarla abierta con el micrófono cogido.
 
-> **Versión 1.7.** Probada a diario en un Motorola Moto G31 con Android 12. En
+> **Versión 1.8.** El traductor de Firefox se probó en un Motorola Moto G31
+> con Android 12, con noticias de la tele en inglés y en polaco; la 1.8 tal
+> cual sale **sin la tanda de uso diario** de las versiones anteriores. En
 > otros móviles puede haber diferencias, sobre todo en las voces instaladas. Si
 > encuentras un fallo, se agradece el aviso.
+>
+> **Desarrollo en pausa.** Las pruebas de traducción siguen ahora en un
+> proyecto hermano en preparación. Pipe-Políglota queda a la espera de que el
+> traductor de Firefox traduzca entre más idiomas sin pasar por el inglés, y
+> eso depende de sus desarrolladores.
 
 ## Descarga
 
@@ -57,11 +69,13 @@ desconocido; es lo normal fuera de Google Play.
 
 ## Qué necesita
 
-- Android 8 o superior, procesador ARM de 64 bits.
+- Android 8 o superior, procesador ARM de 64 bits. El traductor de Firefox
+  pide Android 9; en Android 8 se usa el de siempre.
 - **Micrófono** (es lo único que pide).
 - El **reconocedor de voz** y el **motor de voz** del propio móvil. Si falta la
   voz de algún idioma, la app lo dice y se instala desde los ajustes de Android.
-- Conexión **solo la primera vez** de cada idioma.
+- Conexión **solo la primera vez** de cada idioma (y de cada modelo de
+  Firefox, de 20 a 40 MB, que se baja de los servidores de Mozilla).
 
 ## Privacidad
 
@@ -79,6 +93,11 @@ solo las descargas: el código fuente no se publica.
 
 Lleva dentro componentes con licencia **Apache 2.0**: Vosk y su modelo de voz
 español (Alpha Cephei / AC Technologies), ML Kit Translation (Google) y JNA.
+Y el traductor de Firefox,
+[bergamot-translator](https://github.com/browsermt/bergamot-translator)
+(MPL-2.0), con Marian NMT (MIT) y otras piezas libres. Sus licencias completas
+van dentro de la APK, en `assets/licencias-firefox.txt`. Los modelos de
+traducción (MPL-2.0) los descarga la app de los servidores de Mozilla.
 
 ## Contacto
 

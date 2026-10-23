@@ -47,7 +47,7 @@ estas aplicaciones— para que se pueda usar sin manos.
 - **Se cierra cuando lo dices.** Un botón al final de la pantalla y la orden
   «cierra la aplicación», para no dejarla abierta con el micrófono cogido.
 
-> **Versión 1.8.** El traductor de Firefox se probó en un Motorola Moto G31
+> **Versión 1.8.** El traductor de Firefox se probó en un móvil
 > con Android 12, con noticias de la tele en inglés y en polaco; la 1.8 tal
 > cual sale **sin la tanda de uso diario** de las versiones anteriores. En
 > otros móviles puede haber diferencias, sobre todo en las voces instaladas. Si
